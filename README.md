@@ -44,7 +44,7 @@ InferX/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/InferX.git
+git clone https://github.com/nikhilroxtomar/InferX.git
 cd InferX
 ```
 
