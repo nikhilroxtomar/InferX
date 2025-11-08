@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+celery
+redis
+torch
+torchvision
+pillow
+pynvml

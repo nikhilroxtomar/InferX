@@ -44,7 +44,7 @@ InferX/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/nikhilroxtomar/InferX.git
+git clone https://github.com/yourusername/InferX.git
 cd InferX
 ```
 
@@ -198,3 +198,4 @@ Deep Learning Engineer | Medical Image Analysis Researcher
 ## 🏁 License
 
 This project is released under the MIT License.
+
